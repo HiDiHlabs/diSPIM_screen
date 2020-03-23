@@ -7,8 +7,9 @@ This repository contains scripts used for the analysis of mitotic phenotypes in 
 
 This repository contains:
 
-* KNIME workflows, CNN analysis and R scripts for evaluating mitotic phenotypes
 * hSPIM image processing pipeline manual (with installation instructions)
+* CNN analysis (in Python) for detecting mitotic phases
+* KNIME workflows and R script for evaluating mitotic phenotypes
 
 To install the hSPIM image processing pipeline, please download the .zip file [here]. This software was developed in collaboration with Markus Fangerau and Ingmar Gergel at mBits imaging GmbH and is free for academic use. 
 
