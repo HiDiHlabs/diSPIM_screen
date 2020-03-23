@@ -1,5 +1,5 @@
 # diSPIM_screen
-Tools for analysing diSPIM imaging data and evaluate mitotic phenotypes
+Tools to analyse diSPIM imaging data and evaluate mitotic phenotypes
 
 This repository contains scripts used for the analysis of mitotic phenotypes in 3D spheroids based on diSPIM imaging data. The corresponding manuscript is available as a pre-print:
 
